@@ -1,0 +1,206 @@
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmMain.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.Resources.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.vbproj.GenerateResource.Cache
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.exe
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.pdb
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.exe
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.pdb
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.exe.licenses
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.SplashScreen1.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmLocalDB.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmMsg.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.vbprojResolveAssemblyReference.cache
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmAppend.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmImportModelData.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmModelManage.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmModelInfo.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmData.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmDataMenu.resources
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Data.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Utils.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraBars.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Office.v15.2.Core.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Data.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Utils.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraBars.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Office.v15.2.Core.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+D:\Works\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.exe
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.pdb
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmLocalDB.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmData.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmDataMenu.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmMain.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.SplashScreen1.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmAppend.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmImportModelData.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmModelInfo.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmModelManage.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.frmMsg.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant_Data_Tool.Resources.resources
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.vbproj.GenerateResource.Cache
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.exe.licenses
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.exe
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.pdb
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\Smartplant Data Tool.exe.config
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Data.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Office.v20.1.Core.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.RichEdit.v20.1.Export.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Utils.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraBars.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Data.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Office.v20.1.Core.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Utils.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraBars.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.vbprojAssemblyReference.cache
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.vbproj.CoreCompileInputs.cache
+E:\Work\Programming\Smartplant Data Tool\Smartplant Data Tool\Smartplant Data Tool\obj\x86\Debug\Smartplant Data Tool.vbproj.CopyComplete
