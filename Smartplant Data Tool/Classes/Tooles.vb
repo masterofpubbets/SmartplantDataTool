@@ -328,20 +328,6 @@ Namespace EAMS
                     cmb.Items.Add(DT.Rows(x).Item(0).ToString)
                 Next
             End Sub
-            Public Sub SaveByteToFile(ByVal SQL As String, ByVal FilePath As String)
-                Try
-                    Dim bf() As Byte
-                    Dim ost As System.IO.FileStream
-                    GetImageByte(bf, SQL)
-                    ost = New System.IO.FileStream(FilePath, IO.FileMode.Create)
-                    ost.Write(bf, 0, bf.Length)
-                    ost.Close()
-                    Application.DoEvents()
-
-                Catch ex As Exception
-                    RaiseEvent err(ex.Message)
-                End Try
-            End Sub
             Public Function GetImage(ByVal SQL As String) As System.Drawing.Image
                 Dim _SqlRetVal As Object = Nothing
                 Dim _Image As System.Drawing.Image = Nothing
